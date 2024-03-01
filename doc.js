@@ -32,16 +32,13 @@ else if(num < 18){
 }
 
 
-// Question 4
+Question 4
 
 
 
-var name =prompt('(Question no 4) \n Enter Your Name \n');
-if(name ===zohaib){
+var yourName =prompt('(Question no 4) \n Enter Your Name \n');
+if(yourName==='zohaib'){
     console.log('Asslamoalikum')
-}
-else{
-    console.log('else')
 }
 
 
